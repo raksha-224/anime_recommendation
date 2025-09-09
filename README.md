@@ -21,10 +21,8 @@ Features
 
 4. Recommend anime based on user mood
 
-Getting Started
-Prerequisites
-Python 3.8+
 Kaggle dataset: Anime Recommendation Database
+Model: qwen-3
 
 
 
