@@ -21,8 +21,6 @@ Features
 
 4. Recommend anime based on user mood
 
-Kaggle dataset: Anime Recommendation Database
-Model: qwen-3
 
 
 
